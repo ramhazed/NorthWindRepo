@@ -1,0 +1,34 @@
+ruta del docente
+172.17.32.25
+
+Para subir un elemento 
+GIT GUI Bash  ---> click derecho en la carpeta
+
+Fork ---> debe forkearlo para usarlo a tu repositorio
+
+Comandos Git Hub
+
+$ git init
+$ git remote add northwind https://github.com/PECIVS2015/NorthwindRepo.git
+$ git checkout -b master
+$ git pull northwind master ---> Hasta aqui para bajar los archivos fuentes
+
+$ git status
+$ git add . 
+$ git status
+
+$ git commit -m "Northwind Proyecto"
+$ git config --global user.email "carlos_chavez@outlook.com"
+$ git commit - m "Northwind Proyecto"
+
+$ git status
+
+
+Subir cóidgo a repositorio
+
+$ git push northwind master
+Username for 'https://github.com': isiltech
+password for 'https//isiltech@github.com'
+
+Luego
+En la carpeta 

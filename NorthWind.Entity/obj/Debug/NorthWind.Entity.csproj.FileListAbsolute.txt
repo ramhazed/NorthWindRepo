@@ -7,3 +7,8 @@ C:\northwind\NorthWind.Entity\bin\Debug\NorthWind.Entity.pdb
 C:\northwind\NorthWind.Entity\obj\Debug\NorthWind.Entity.csprojResolveAssemblyReference.cache
 C:\northwind\NorthWind.Entity\obj\Debug\NorthWind.Entity.dll
 C:\northwind\NorthWind.Entity\obj\Debug\NorthWind.Entity.pdb
+C:\Northwind02\NorthWind.Entity\bin\Debug\NorthWind.Entity.dll
+C:\Northwind02\NorthWind.Entity\bin\Debug\NorthWind.Entity.pdb
+C:\Northwind02\NorthWind.Entity\obj\Debug\NorthWind.Entity.csprojResolveAssemblyReference.cache
+C:\Northwind02\NorthWind.Entity\obj\Debug\NorthWind.Entity.dll
+C:\Northwind02\NorthWind.Entity\obj\Debug\NorthWind.Entity.pdb
